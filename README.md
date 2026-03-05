@@ -1,2 +1,2 @@
 # ysfG
-Gaming website for ysfG - Kick, YouTube, TikTok, Discord
+Gaming website for ysfG 
